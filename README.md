@@ -1,2 +1,1 @@
-# devitasari
 Praktikum_Minggu_2_Pemrograman_Perangkat_Bergerak
